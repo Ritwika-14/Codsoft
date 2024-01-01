@@ -6,8 +6,8 @@ three coding tasks implemented in Java. These tasks were part of a coding challe
 ## Table of Contents
 
 * Task 1: Description
-Task 2: Description
-Task 3: Description
-Usage
-Dependencies
-License
+* Task 2: Description
+* Task 3: Description
+* Usage
+* Dependencies
+* License
