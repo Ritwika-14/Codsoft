@@ -51,8 +51,3 @@ balance.
 
 7. Display appropriate messages to the user based on their chosen options and the success or failure
 of their transactions.
-
-
-* Usage
-* Dependencies
-* License
